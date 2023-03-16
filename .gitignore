@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+*.zip
+
+poetry.lock
+.ninja_log
+target/
+python/
